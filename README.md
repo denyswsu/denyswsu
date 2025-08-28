@@ -17,6 +17,7 @@ Cybersecurity training platform. Offers immersive cyber security training throug
 
 
 #### Technologies: <br/>
+<img height="15" width="15" src="https://cdn.simpleicons.org/docker"/> Docker <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/amazon"/> AWS <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/postgresql"/> PostgreSQL <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/elasticsearch"/> Elasticsearch <br/>
@@ -34,7 +35,7 @@ OOP, CI/CD, Design Patterns, TDD, SOLID, DRY
 <img height="15" width="15" src="https://cdn.simpleicons.org/javascript"/> JavaScript <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/html5"/> HTML <br/>
 <img height="15" width="15" src="https://cdn.simpleicons.org/css3"/> CSS <br/>
-<img height="15" width="15" src="https://cdn.simpleicons.org/docker"/> Docker <br/>
+
 
 
 #### English: 
